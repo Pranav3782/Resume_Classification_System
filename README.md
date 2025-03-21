@@ -1,7 +1,3 @@
-Here’s a clearer and more natural version of your explanation while keeping the meaning intact:
-
----
-
 # **Resume Classification System**  
 
 This project is about automatically categorizing resumes into different job roles using **machine learning**.  
